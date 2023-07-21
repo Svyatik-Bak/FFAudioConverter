@@ -1,4 +1,5 @@
 # FFAudioConverter
 Audio converter. Using FFmpeg
 
-![image](https://github.com/Svyatik-Bak/FFAudioConverter/assets/89962566/713ae25f-fe4a-4d2d-a91d-ea004f36d3b4)
+![image](https://github.com/Svyatik-Bak/FFAudioConverter/assets/89962566/ab0253bb-9f0e-4c1d-b355-0677a443ec42)
+
